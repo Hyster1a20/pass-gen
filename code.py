@@ -4,7 +4,6 @@ def shuffle(string):
   tempList = list(string)
   random.shuffle(tempList)
   return ''.join(tempList)
-
 c1 =chr(random.randint(40,100)) 
 c2 =chr(random.randint(40,100))
 c3 =chr(random.randint(40,100))

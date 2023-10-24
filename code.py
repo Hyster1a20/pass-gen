@@ -19,6 +19,7 @@ c12 =chr(random.randint(40,100))
 
 
 
+
 #7ta nzid fih baqi 
 #remeber azbi rah hadu gha string
 
